@@ -4,7 +4,7 @@ My name is Allan, i have been developing since i was 13 years old, starting with
 
 I followed a first university course to learn medicine for some years, then reoriented myself in the development of web applications. 😁
 
-I am currently working at Lifen, an emerging healthcare company, and i teach web development from time to time at ESIN.
+I am currently working at Posos, an emerging healthcare company, and i teach web development from time to time at ESIN.
 
 I am passionate about the javascript ecosystem, and the quality management system as part of the web application production life cycle.
 
