@@ -1,21 +1,23 @@
-# Welcome 😎 !
+# Hi, I'm Allan 👋
 
-My name is Allan, i have been developing since i was 13 years old, starting with VBScript, deploying my first web app in high school.
+**Senior Software Engineer · Node.js / TypeScript · Developer Experience**
 
-I followed a first university course to learn medicine for some years, then reoriented myself in the development of web applications. 😁
+I help engineering teams ship faster and with more confidence: monorepos, fast CI/CD, shared lint & test tooling, observability.
 
-I am currently working at Posos, an emerging healthcare company, and i teach web development from time to time at ESIN.
+- 🧰 **Developer Experience** — pnpm / Yarn Berry monorepos, dynamically generated CI (15 min → under 1 min at Lifen), shared ESLint / Prettier / Vitest configs
+- 🧪 **Quality** — mutation testing advocate (StrykerJS), adopted across backend and front-end teams
+- ⚙️ **Backend** — Fastify, Undici, PostgreSQL / Kysely, event-driven services on Amazon SQS, CJS → ESM and Node.js 12 → 22 migrations
+- 📈 **Observability** — OpenTelemetry, Sentry, Prometheus, Grafana
+- 🏥 **Healthtech** — ex-Lifen, ex-Posos · health interoperability (CDA, IHE XDM, MSSanté)
 
-I am passionate about the javascript ecosystem, and the quality management system as part of the web application production life cycle.
+### 🌱 Open source
 
-[![blephy-profile-trophy](https://github-profile-trophy.vercel.app/?username=blephy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+Contributor to [Node.js · Undici](https://github.com/nodejs/undici/pulls?q=is%3Apr+author%3Ablephy)
 
-### Connect with me
+### 📜 A bit of history
 
-<p align="left">
-<a href="https://linkedin.com/in/blephy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blephy" height="30" width="40" /></a>
-</p>
+Writing code since I was 13 (VBScript!), shipped my first web app in high school, spent nine years in medical school, then came back to my first love: the JavaScript ecosystem.
 
----
+### 📫 Reach me
 
-![blephy-profile-view](https://komarev.com/ghpvc/?username=blephy&label=Profile%20views&color=0e75b6&style=flat)
+[allandolle.fr](https://allandolle.fr) · [LinkedIn](https://www.linkedin.com/in/blephy/) · hello@allandolle.fr
